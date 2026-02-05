@@ -1,0 +1,23 @@
+nav ul {
+    padding: 35px;
+    color: black;
+    list-style-type: none;
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 35px;
+    margin-right: 70px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    position: relative;
+    margin-top: 85px;
+}
