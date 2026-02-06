@@ -10,7 +10,7 @@ nav ul {
     
  }
  nav ul li {
-    display: inline;
+    
     align-items: center;
     height: 40px;
     float: left;
@@ -60,7 +60,7 @@ img {
     float: right;
    margin-right: 155px;
     height:740px;
-    margin-top: -200px;
+    margin-top: -225px;
 
 } 
 #hehe4 {
@@ -95,11 +95,12 @@ button {
     background-color:  rgb(177, 80, 109);
     color: white;
     border-color: rgb(177, 80, 109);
-    border: 1pc solid rgb(177, 80, 109);
+    border: 1px solid rgb(177, 80, 109);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     border-radius: 10px;
     font-weight: bold;
+    padding: 15px;
 
  }
  #vertical-line {
@@ -110,16 +111,16 @@ button {
 
 
 .flexbox {
-    justify-content: space-evenly;
+   display: inline;
     background-color: white;
-    display:block;
+   margin-top: 55px;
    border-radius: 8px;
   padding: 25px;
   margin:20px;
   overflow: hidden;
   float: left;
   margin-left: 45px;
-  margin-top: -15px;
+  margin-top: 65px;
   }
 
 #web {
