@@ -1,10 +1,10 @@
 #nav ul{
    display: flex;
    align-items: center;
-  justify-content: space-around;
-    overflow: hidden;
-    padding: 25px;
+  justify-content: space-between;
+   padding: 25px;
     margin-top: -10px;
+    margin-left: 105px;
   
   
     
@@ -13,10 +13,9 @@
     
     align-items: center;
     height: 40px;
-   
-    margin-left: 130px;
     list-style-type: none;
   margin-top: 35px;
+  margin-left: 125px;
 
 
  }
@@ -173,36 +172,25 @@ padding: 25px;
     }
 
 #pjesa2   {
-    
+    margin-top: 45px;
     margin-left: 10px;
-    
+    margin-bottom: 45px; 
     padding: 55px;
+    padding-bottom: 45px;
     float: left;
     background: white;
     
 }
 
-
-
-
-#sherbimi {
-    text-align: center;
-    font-size: 25px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(9, 9, 86);
-
+#pjesa22 {
+    margin-bottom: 75px;
 }
 
 
 
 
-
-
-
-  
-
 #rreth {
-
+margin-top: 30px;
 color: black;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 margin-left: 95px;

@@ -1,15 +1,8 @@
-header {
-    background-color:  rgb(199, 83, 118);
-    width: 100%;
-  
-    padding-right: 30px;
-    
-    margin-left: -20px;
-   
-    
-    
+
+ body {
+  background-color: rgb(233, 222, 222);
+  margin: 0px;;
  }
- 
 
  #vertical-line2 {
     width: 80px;
@@ -25,26 +18,31 @@ header {
 #touch {
     padding-top: 45px;
     text-align: center;
-    color: white;
+    color: rgb(162, 49, 83);
     font-size: 45px;
     font-family: Arial, Helvetica, sans-serif;
 }
 #teksti5 {
     text-align: center;
-    color: white;
+    color: rgb(199, 83, 118);
     font-family: Arial, Helvetica, sans-serif;
     padding: 25px;
-    font-size: 18px;
+    font-size: 22px;
     padding-top: 45px;
     margin-left: 20px;
     margin-top: 55px;
+    font-weight: bold;
 }
-    
+     #container2 {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    } 
   
 
 .contact-form {
    
-     width: 300px;
+    
       margin: 100px auto;
       font-family: Arial, sans-serif;
     }
@@ -52,7 +50,7 @@ header {
       display: block;
       margin-bottom: 15px;
       font-weight: bold;
-      color: white;
+      color: rgb(199, 83, 118);
     }
     .contact-form input {
         
@@ -68,7 +66,7 @@ header {
       background-color: #007BFF;
       border: 1px solid #007BFF;
       color: white;
-      margin-left: 8px;
+      margin-left: 15px;
       font-size: 16px;
       border-radius: 4px;
       padding-top: 15px;
@@ -76,10 +74,11 @@ header {
     }
     .contact-form button:hover {
       background-color: #0056b3;
+      border: 1px solid #0056b3;
     }
 
     #headings {
-        color: white;
+        color: rgb(199, 83, 118);
         text-align: center;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         padding: 35px;
@@ -88,11 +87,272 @@ header {
 
     }
         
+  #hhh3 {
+    background-color: rgb(9, 9, 86);
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    padding-right: 50px;
+   margin-left: -40px;
+    padding-top: 20px;
+    border-bottom: 10px solid rgb(199, 83, 118);
+  
+
+  }
+
+  
+  #ideja {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    padding-bottom: 35px;
+    font-size: 55px;
+
+  }
+   #paragraf {
+    margin-top: 95px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    padding-bottom: 45px;
+   }
+
+   #pervoja {
+    color: rgb(185, 62, 99);
+    font-size: 65px;
+    
+   }
+   
+   h6 {
+    font-size: 45px;
+    margin-left: 250px; 
+    color: rgb(9, 9, 86);
+    
+  }
+  #vertical-line3 {
+    background-color: #007BFF;
+    border-radius: 5px;
+    width: 900px;
+    height: 10px;
+    margin-left: 250px;
+    margin-top: -75px;
+    padding: 5px;
+   }
+
+
+
+   #head {
+    margin-top: 155px;
+    margin-left: 250px;
+    color: rgb(9, 9, 86);
+    font-size: 75px;
+
+    
+   }
+
+
+   #vertical-line1 {
+    background-color: #007BFF;
+    border-radius: 5px;
+    width: 500px;
+    height: 10px;
+   margin-left: 250px;
+   margin-bottom: 20px;
+  padding: 5px; }
+  
+
+#vertical-line {
+    background-color: rgb(199, 83, 118);
+    border-radius: 5px;
+    width: 450px;
+    height: 10px;
+   margin-left: 250px;
+  padding: 5px; }
+  
+
+#container {
+   display: flex;
+   flex-direction: row;
+   justify-content: right;
+   
+}
+
+.flexbox{
+display: flex;
+flex-direction: column;
+border: 5px solid rgb(9, 9, 86);
+border-top: 25px solid rgb(9, 9, 86);
+margin-top: -475px;
+margin-right: 200px;
+border-radius: 10px;
+padding: 45px;
+}
+
+.circle {
+ display: flex;
+ flex-direction: row;
+ justify-content: left;
+  margin-left: -15px;
+  margin-top: -20px;
+}
+
+#circle1 {
+ 
+  background-color: rgb(94, 94, 193);
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+#circle2 {
+  
+  background-color: rgb(185, 62, 99);
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+#circle3 {
+
+
+  background-color: rgb(216, 112, 143);
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+}
+#web {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(185, 62, 99);
+    margin-bottom: -40px;
+    margin-top: 20px;
+    text-align: center;
+   
+    
+    
+    
+} 
+ #tekst {
+    font-family: Open Sans Regular , sans-serif;
+    margin-bottom: 20px;
+    font-size: 20px;
+   margin-left: 20px;
+    text-align: left;
+    color: rgb(9, 9, 86);
+    font-weight: bold;
+  
+
+
+ }
+
+ #kompjuteri {
+
+    width: 130px;
+    height: 240px;
+    margin-left: 235px;
+    margin-bottom: -170px;
+    
+  
+    }
+
+    #butoni3 {
+        width: 170px;
+        font-family:  Arial, Helvetica, sans-serif;
+        border: 1px solid  rgb(199, 83, 118);
+        padding: 20px;
+        background-color: rgb(199, 83, 118);
+        color: white;
+        border-radius: 15px;
+        text-align: center;
+        margin: 35px auto;
+        
+    }
+
+    #butoni3:hover {
+      background-color: rgb(185, 62, 99);
+      border: 1px solid rgb(185, 62, 99);
+    }
+  footer {
+    background-color: white;
+  
+  }
+    #projekte {
+      background-color: rgb(9, 9, 86);
+  
+  color: rgb(216, 112, 143);
+  text-align: center;
+  font-weight: bold;
+  font-size: 45px;
+  padding: 20px;
+  padding-top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+    #vertical-line6 {
+    background-color: rgb(216, 112, 143);
+    border-radius: 5px;
+    width: 450px;
+    height: 1px;
+  padding: 5px;
+  margin: 10px auto 20px; }
+
+    #container5 {
+     background-color: rgb(9, 9, 86);
+  margin-top: 10px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding-bottom: 50px;
+   
   
   
+}
+
+.flexbox2 {
+background-color: white;
+display: flex;
+flex-direction: column;
+align-items: center;
+border: 2px solid rgb(216, 112, 143);
+
+border-radius: 10px;
+padding: 30px;
+margin-top: 75px;
+}
+ 
 
 
-
-
+ #kompjuteri5 {
+    width: 330px;
+    height: 240px;
+    margin-top: 10px;
   
+    }
 
+    #butoni0 {
+        width: 170px;
+        font-family:  Arial, Helvetica, sans-serif;
+        border: 1px solid rgb(216, 112, 143);
+        padding: 20px;
+        background-color:rgb(216, 112, 143);
+        color: white;
+        border-radius: 15px;
+        text-align: center;
+        margin: 20px auto 0;
+        transition: background 3s , border-radius 3s;
+        
+    }
+
+    #butoni0:hover {
+      background-color: rgb(162, 49, 83);
+      border: 1px solid rgb(162, 49, 83);
+    }
+
+    footer {
+    margin-top: 125px;
+    }
