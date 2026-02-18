@@ -120,7 +120,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 300px;
+width: 300px;
 background-color: white;
 margin-bottom: 45px;
 border-radius: 8px;
@@ -313,11 +313,11 @@ margin-left: 95px;
     padding: 35px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(9, 9, 86);
-   
 }
 h3 {
     text-align: center;
     color: rgb(184, 53, 92);
+    font-size: 23px;
     font-family: Open Sans Regular , sans-serif;
     padding: 15px;
 }
