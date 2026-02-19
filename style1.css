@@ -417,18 +417,16 @@ margin-top: 75px;
 #falenderimi {
   text-align: center;
   font-weight: bold;
-  font-size: 45px;
+  font-size: 35px;
   color: rgb(9, 9, 86);
 }
- @media(min-width: 1000px) {
-  article {
-    background-color: rgb(47, 47, 123);
-    color: white;
-  }
+#kontakti {
+  color: rgb(185, 62, 99);
+  
+  
 }
 
-
-@media(min-width: 1000px) {
+@media(max-width: 1000px) {
   #hhh3 {
     background-color: rgb(47, 47, 123);
     color: white;
