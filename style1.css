@@ -420,3 +420,17 @@ margin-top: 75px;
   font-size: 45px;
   color: rgb(9, 9, 86);
 }
+ @media(min-width: 1000px) {
+  article {
+    background-color: rgb(47, 47, 123);
+    color: white;
+  }
+}
+
+
+@media(min-width: 1000px) {
+  #hhh3 {
+    background-color: rgb(47, 47, 123);
+    color: white;
+  }
+}
