@@ -54,6 +54,14 @@ p {
 
 
 }
+
+#i {
+
+    background-color:rgb(184, 53, 92);
+    padding: 15px;
+  
+    border-radius: 25px;
+}
 #img { 
     float: right;
    margin-right: 155px;
