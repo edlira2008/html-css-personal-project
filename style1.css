@@ -427,7 +427,10 @@ margin-top: 75px;
   
   
 }
-
+#oo {
+  color: rgb(162, 49, 83);
+  text-decoration: none;
+}
 @media(max-width: 1000px) {
   #hhh3 {
     background-color: rgb(47, 47, 123);
