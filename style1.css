@@ -355,8 +355,8 @@ margin-top: 75px;
     }
     
     table {
-      border: 5px solid rgb(185, 62, 99);
-      background-color: rgb(233, 189, 202);
+      border: 5px solid rgb(233, 189, 202);
+     
       border-radius: 5px;
       margin: 10px auto 0px;
       margin-top: 75px;
@@ -364,9 +364,10 @@ margin-top: 75px;
     }
 
     th, tr ,td  {
-      border: 2px solid rgb(185, 62, 99);
+      
       padding: 35px;
       background-color: rgb(233, 189, 202);
+      border-radius: 7px;
     }
 
     td {
@@ -427,6 +428,7 @@ margin-top: 75px;
   
   
 }
+
 #oo {
   color: rgb(162, 49, 83);
   text-decoration: none;
